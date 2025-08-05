@@ -13,6 +13,7 @@ internal val loginActivityOnCreateFingerprint = fingerprint {
     }
 }
 
+
 internal val m2Fingerprint = fingerprint {
     accessFlags(AccessFlags.PROTECTED)
     returns("V")
