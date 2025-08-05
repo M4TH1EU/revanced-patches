@@ -160,6 +160,10 @@ public final class app/revanced/patches/bandcamp/limitations/RemovePlayLimitsPat
 	public static final fun getRemovePlayLimitsPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
+public final class app/revanced/patches/bcvmobile/RootBypassPatchKt {
+	public static final fun getBypassRootDetectionPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
 public final class app/revanced/patches/cieid/restrictions/root/BypassRootChecksPatchKt {
 	public static final fun getBypassRootChecksPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
