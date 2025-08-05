@@ -1,3 +1,10 @@
+## [5.34.1](https://github.com/M4TH1EU/revanced-patches/compare/v5.34.0...v5.34.1) (2025-08-05)
+
+
+### Bug Fixes
+
+* **maven:** fix maven pkgs ([c53ea14](https://github.com/M4TH1EU/revanced-patches/commit/c53ea1487310fe44079b64fc66c37ac4fbb071ea))
+
 # [5.34.0](https://github.com/M4TH1EU/revanced-patches/compare/v5.33.0...v5.34.0) (2025-08-05)
 
 
