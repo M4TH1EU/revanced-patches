@@ -1,3 +1,10 @@
+# [5.34.0](https://github.com/M4TH1EU/revanced-patches/compare/v5.33.0...v5.34.0) (2025-08-05)
+
+
+### Features
+
+* **bcvmobile:** added bypass root ([d19541d](https://github.com/M4TH1EU/revanced-patches/commit/d19541d7a774309a6fa28cc3eb3a1b623c4b106d))
+
 # [5.33.0](https://github.com/ReVanced/revanced-patches/compare/v5.32.0...v5.33.0) (2025-08-05)
 
 
